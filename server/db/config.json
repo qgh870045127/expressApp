@@ -1,0 +1,7 @@
+{
+  "host":"47.107.120.219",
+  "port":"3306",
+  "user":"root",
+  "password":"123456",
+  "database":"movies"
+}

@@ -1,0 +1,8 @@
+[2020-10-10T15:52:37.551] [ERROR] default - 普通日志
+[2020-10-10T15:52:37.658] [ERROR] default - 普通日志
+[2020-10-10T16:01:01.822] [ERROR] default - 123
+[2020-10-10T16:01:01.934] [ERROR] default - 123
+[2020-10-10T16:01:16.078] [ERROR] default - ::1 - - "GET /index/data HTTP/1.1" 500 132 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2020-10-10T16:01:16.172] [ERROR] default - ::1 - - "GET /favicon.ico HTTP/1.1" 500 132 "http://localhost:3000/index/data" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2020-10-10T16:02:49.672] [ERROR] default - 错误
+[2020-10-10T16:02:49.807] [ERROR] default - 错误
